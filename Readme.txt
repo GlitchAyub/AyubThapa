@@ -1,6 +1,5 @@
-Thanks for downloading this template!
-
-Template Name: Folio
-Template URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+hello
+git branch -m main gh-pages
+git fetch origin
+git branch -u origin/gh-pages gh-pages
+git remote set-head origin -a
